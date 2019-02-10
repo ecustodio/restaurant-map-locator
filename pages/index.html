@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>Restaurant Locator</title>
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/assets/css/app.css" />
+<head>
+<body>
+	<div id="div_controls" class="restaurant-type-box">
+    	<div> 
+    		Restaurant Type : 
+      		<select id="census-variable" onchange="filterMarkers(this)">
+      			<option value="none" selected>Please select type</option>
+		        <option value="fastfood">Fast Food</option>
+		        <option value="bar">Resto Bar</option>
+		        <option value="dessert">Desserts</option>
+		        <option value="cafe">Cafe</option>
+		        <option value="pizzaria">Pizzaria</option>
+      		</select>
+      	</div>
+    </div>
+    <div id="legend">
+        
+    </div>
+  	<div id="map"></div>
+	<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap&libraries=visualization" async defer></script>
+    <script src="/assets/js/app.js"></script>
+</body>
+</html>

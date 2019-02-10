@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.894285,
+          10.305701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "pizzaria",
+        "hours": "10am - 6pm",
+        "description": "Pizza Hut is an American restaurant chain and international franchise founded in 1958 by Dan and Frank Carney. The company is known for its Italian-American cuisine menu, including pizza and pasta, as well as side dishes and desserts.",
+        "name": "Pizza Hut",
+        "specialty": "Pizza, Pasta, Chicken Wings",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.894897,
+          10.321102
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "pizzaria",
+        "hours": "7am - 10pm",
+        "description": "Shakey's Pizza is a pizza restaurant chain based in the United States. Founded in 1954, it was the first franchise pizza chain in the United States.",
+        "name": "Shakey's",
+        "specialty": "Pizza, Pasta, Mojos",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         123.885794,
+         10.306553
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "dessert",
+        "hours": "9am - 9pm",
+        "description": "This indoor French courtyard is one of Chef Miko Aspiras' playgrounds for fun, quirky, and exceptional desserts.",
+        "name": "Le Petit Souffle",
+        "specialty": "Ice Cream, Classic Souffle Pancake, Matcha Parfait",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.887266,
+          10.307690
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "dessert",
+        "hours": "10am - 6pm",
+        "description": "Rita's will go down in history for coming up with so many ways to enjoy custard and Italian ice. You can have them layered, mixed, with toppings, as cake, as a shake, individually, or as a sundae. However you want your Rita's, this Philadephia-based ice stop is always reliable for a quick and tasty treat.",
+        "name": "Rita's Italian Ice",
+        "specialty": "Frozen Custard, Gelati",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          123.888078,
+          10.307919
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "dessert",
+        "hours": "10am - 9pm",
+        "description": "Lady M's Madame Emy Wada is a dessert genius. Paper Moon, the Philippine franchise of her brand, has been impressing people with their picture-perfect crepe cakes, but this place is no one-hit wonder.",
+        "name": "Paper Moon",
+        "specialty": "Mille Crepe, Ginger Cookies, Strawberry Shortcake",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.885300,
+          10.315402
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "fastfood",
+        "hours": "7am - 10pm",
+        "description": "Jollibee is a Filipino multinational chain of fast food restaurants owned by Jollibee Foods Corporation.",
+        "name": "Jollibee",
+        "specialty": "ChickenJoy, Burgers, Spagehtti",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.892189,
+          10.313217
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "fastfood",
+        "hours": "7am - 10pm",
+        "description": "Chowking is a Philippine-based restaurant chain. The concept combines Western fast food service with Chinese food menu. Chowking predominantly sells noodle soups, dim sum and rice bowls with toppings.",
+        "name": "Chowking",
+        "specialty": "Lauriat, Mami, Wanton, Halo-halo",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.892220,
+          10.314915
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "hours": "6am - 12:00am",
+        "description": "The Coffee Bean & Tea Leaf is an American coffee chain founded in 1963. It is owned and operated by International Coffee & Tea, LLC, which has its corporate headquarters in Los Angeles, California.",
+        "name": "The Coffee Bean & Tea Leaf",
+        "specialty": "Coffee, Tea, Ice Blended",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.890796,
+          10.310447
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "hours": "6am - 12:00am",
+        "description": "Bo's Coffee is a Filipino coffee and coffeehouse chain. It was founded by Steve Benitez in 1996 in Cebu City, Philippines.",
+        "name": "Coffe, Mocha",
+        "specialty": "Lauriat, Mami, Wanton, Halo-halo",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           123.891220,
+           10.311073
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "hours": "6am - 12:00am",
+        "description": "Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971.",
+        "name": "Starbucks",
+        "specialty": "Coffee, Frappe",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         123.882835,
+         10.311898
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "fastfood",
+        "hours": "8am - 9:30pm",
+        "description": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+        "name": "McDonalds",
+       	"specialty": "Burgers, French Fries, Fried Chicken",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.882541,
+          10.312626
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "bar",
+        "hours": "8am - 12:00am",
+        "description": "Gilligan’s Bar and Grill was established in 1993 by George and Leah Lois. Through their hard work and diligence, Gilligan’s has become a premier dining establishment in the Capital area. It is their goal to provide their patrons with outstanding service and exceptional food.",
+        "name": "GILLIGAN'S Bar & Grill",
+        "specialty": "Sisig, Filipino Food",
+        "visit_count" : 2500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.881406,
+          10.314509
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "type": "bar",
+        "hours": "8am - 12:00am",
+        "description": "Gerry’s Restaurant and Bar, formerly Gerry's Grill, is a group of restaurants based in the Philippines. Its first branch opened at Tomas Morato in Quezon City on February 14, 1997.",
+        "name": "Gerry’s Restaurant and Bar",
+        "specialty": "Filipino Food",
+        "visit_count" : 2500
+      }
+    }
+  ]
+}
